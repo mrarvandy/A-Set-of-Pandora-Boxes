@@ -606,7 +606,7 @@ let arr = [
     },
     {
         name: "Kyrgyzstan",
-        image: "images/kyr.jpg",
+        image: "images/kgz.jpg",
         code: `<iframe src="https://open.spotify.com/embed/playlist/0Ii32Hbvj7bjcAqjIizCrE" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>`
     },
     {
@@ -891,7 +891,7 @@ let arr = [
     },
     {
         name: "Puerto Rico",
-        image: "images/pru.jpg",
+        image: "images/pur.jpg",
         code: `<iframe src="https://open.spotify.com/embed/playlist/7rZQmL9zmHiMPfxOQK37Rg" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>`
     },
     {
@@ -1111,7 +1111,7 @@ let arr = [
     },
     {
         name: "Timor-Leste",
-        image: "images/tle.jpg",
+        image: "images/tls.jpg",
         code: `<iframe src="https://open.spotify.com/embed/playlist/4Y0QT2dSf9HsbdpdYu0Qxj" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>`
     },
     {
